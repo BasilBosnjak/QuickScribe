@@ -5,20 +5,20 @@ QuickScribe is a personal note-taking app designed with simplicity and speed in 
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
 Try the app here: [https://quickscribe-bu8i.onrender.com/]
 
-> ⚠️ Backend will take a few seconds to spin up if idle (free tier behavior on Render).
+> Backend will take a few seconds to spin up if idle (free tier behavior on Render).
 
 ---
 
 ## Features
 
-- 📝 Create, view, edit, and delete personal notes   
-- 🚫 Rate limiting for note creation (anti-abuse mechanism)  
-- 📱 Clean, mobile-friendly interface  
-- ⚙️ Full-stack application with frontend and backend separation  
+- Create, view, edit, and delete personal notes   
+- Rate limiting for note creation (anti-abuse mechanism)  
+- Clean, mobile-friendly interface  
+- Full-stack application with frontend and backend separation  
 
 ---
 
